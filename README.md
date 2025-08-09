@@ -1,5 +1,9 @@
 # **indiBuddy**
 
+![IndiBuddy Logo](https://www.indibuddy.com/ib_logo.png)
+
+**Check out our main platform: [indibuddy.com](https://www.indibuddy.com/)**
+
 ## What is IndiBuddy?
 
 IndiBuddy is a FREE platform that connects Indian expats worldwide, helping you find Indian restaurants, temples, events, travel buddies, and local businesses in your city. Stay connected to Indian culture and community wherever you are!
