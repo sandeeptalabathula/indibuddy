@@ -1,6 +1,6 @@
 # **indiBuddy**
 
-![IndiBuddy Logo](https://www.indibuddy.com/ib_logo.png)
+![IndiBuddy](https://www.indibuddy.com/favicon/favicon.ico)
 
 **Check out our main platform: [indibuddy.com](https://www.indibuddy.com/)**
 
