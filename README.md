@@ -1,6 +1,4 @@
-# **indiBuddy**
-
-![IndiBuddy](https://www.indibuddy.com/favicon/favicon.ico)
+![IndiBuddy](https://www.indibuddy.com/favicon/favicon.ico) **indiBuddy**
 
 **Check out our main platform: [indibuddy.com](https://www.indibuddy.com/)**
 
@@ -20,6 +18,7 @@ We're building bridges between Indian expats and their cultural roots, while cre
 - **Temples & Spiritual Centers**: Locate nearby temples, meditation centers, and spiritual communities for cultural and religious practices
 - **Cultural Events**: Stay updated on Diwali celebrations, Holi festivals, Bollywood nights, and other Indian cultural events in your area
 - **Local Businesses**: Connect with Indian-owned businesses offering services from groceries to professional services
+- **Indian Marketplace**: Buy, sell, or give away furniture, electronics, books, and other items within the Indian community
 
 ### 🤝 **Build Lasting Connections**
 
@@ -34,6 +33,8 @@ We're building bridges between Indian expats and their cultural roots, while cre
 - **Travel Planning**: Discover Indian communities and experiences when traveling to new cities
 - **Cultural Calendar**: Stay informed about upcoming Indian festivals and events nationwide
 - **Local Recommendations**: Get insider tips from the Indian community in each area
+- **Temple Directory**: Find Hindu temples, meditation centers, and spiritual communities near you
+- **Event Discovery**: Discover cultural workshops, language classes, dance performances, and community gatherings
 
 ## Travel Buddy Feature
 
@@ -73,6 +74,8 @@ The "How It Works" section showcases our innovative travel buddy feature - helpi
 - **Professional Services**: Offer legal, financial, healthcare, and other services to Indian families
 - **Retail & Grocery**: Provide authentic Indian products and ingredients
 - **Event Organizers**: Promote cultural events, workshops, and celebrations
+- **Marketplace Sellers**: List your products and services in our Indian community marketplace
+- **Cultural Educators**: Offer language classes, cooking workshops, and cultural training programs
 
 **Platform Benefits**
 
@@ -90,6 +93,8 @@ The "How It Works" section showcases our innovative travel buddy feature - helpi
 3. **Explore**: Discover Indian experiences in your area
 4. **Connect**: Reach out to fellow community members
 5. **Share**: Contribute reviews and recommendations
+6. **Marketplace**: Buy, sell, or give away items in our Indian community marketplace
+7. **Event Participation**: Join cultural events, temple activities, and community gatherings
 
 ### 🏢 **For Businesses**
 
@@ -97,6 +102,8 @@ The "How It Works" section showcases our innovative travel buddy feature - helpi
 2. **Profile Creation**: Showcase your services and cultural connection
 3. **Community Engagement**: Participate in community discussions and events
 4. **Customer Growth**: Build your customer base through our platform
+5. **Marketplace Integration**: List products and services in our Indian community marketplace
+6. **Event Promotion**: Advertise cultural events, workshops, and temple activities
 
 ## Community Impact
 
@@ -107,6 +114,8 @@ IndiBuddy is more than just a platform - we're building a global Indian family. 
 - **Share Experiences** and create lasting memories
 - **Support Each Other** in navigating life abroad
 - **Preserve Traditions** while embracing new cultures
+- **Access Cultural Resources** through temples, events, and community activities
+- **Participate in Community Commerce** through our Indian marketplace
 
 ## Join the IndiBuddy Family
 
