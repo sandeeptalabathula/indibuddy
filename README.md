@@ -1,4 +1,4 @@
-![IndiBuddy](https://www.indibuddy.com/favicon/favicon.ico) **indiBuddy**
+# ![IndiBuddy](https://www.indibuddy.com/favicon/favicon.ico) &nbsp;**IndiBuddy**
 
 **Check out our main platform: [indibuddy.com](https://www.indibuddy.com/)**
 
